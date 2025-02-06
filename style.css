@@ -163,6 +163,10 @@ section::after { /* On redimentionne la section pour qu'elle entoure les images 
 	clear: both;
 }
 
+p{
+	text-align:justify;
+}
+
 article{
     margin-left: 20px;
 }
