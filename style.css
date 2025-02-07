@@ -85,7 +85,7 @@ header img{
 .side-menu li a{
   display: block;
   color: #000;
-  background-color:rgba(0,0,0,0.4);
+  background-color:rgba(0,0,0,0.6);
   padding: 8px 16px;
   text-decoration: none;
   color:white;
@@ -116,7 +116,7 @@ header img{
 .side-menu-index li a{
   display: block;
   color: #000;
-  background-color:rgba(0,0,0,0.4);
+  background-color:rgba(0,0,0,0.6);
   padding: 8px 16px;
   text-decoration: none;
   color:white;
@@ -143,7 +143,7 @@ header img{
 .side-menu-kerala li a{
   display: block;
   color: #000;
-  background-color:rgba(0,0,0,0.4);
+  background-color:rgba(0,0,0,0.6);
   padding: 8px 16px; 
   text-decoration: none;
   color:white;
